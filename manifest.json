@@ -1,0 +1,13 @@
+{	
+	"name":"oh my emoticons",
+	"manifest_version":2,
+	"version":"1.0.0",
+	"description":"unicode emoticons to use in a table flipping comment.",
+	"browser_action":{
+		"default_title":"oh my emoticons",
+		"default_popup":"board.html"
+	}
+	
+	
+
+}
